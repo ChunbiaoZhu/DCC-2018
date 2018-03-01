@@ -6,7 +6,7 @@
 |  ![DCC 2018 logo][logo-DCC] | Paper accepted at [2018 Data Compression Conference](http://www.cs.brandeis.edu/~dcc/index.html)   |
 |:-:|---|
 
-[logo-DCC]: https://github.com/ChunbiaoZhu/DCC-2018/blob/master/logo/DCCbanner_text.png.png "DCC 2018 logo"
+[logo-DCC]: https://github.com/ChunbiaoZhu/DCC-2018/blob/master/logo/DCCbanner_text.png "DCC 2018 logo"
 
 
 
