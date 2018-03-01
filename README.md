@@ -3,8 +3,7 @@
 
 
 
-|  ![DCC 2018 logo][logo-DCC] | Paper accepted at [2018 Data Compression Conference](http://www.cs.brandeis.edu/~dcc/index.html) Cliff Lodge, Snowbird, UT, 
-Tuesday - Friday, March 27 - 30. ||:-:|---|
+|  ![DCC 2018 logo][logo-DCC] | Paper accepted at [2018 Data Compression Conference](http://www.cs.brandeis.edu/~dcc/index.html) Cliff Lodge, Snowbird, UT, Tuesday - Friday, March 27 - 30. ||:-:|---|
 
 [logo-DCC]: https://github.com/ChunbiaoZhu/DCC-2018/blob/master/logo/DCCbanner_text.png "DCC 2018 logo"
 
