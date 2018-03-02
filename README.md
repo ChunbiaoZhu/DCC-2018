@@ -28,9 +28,9 @@ Extensive evaluations show the proposed approach outperforms other methods in sa
 
 ## Code & Results
 
-Source code is released! You can download in [here](https://github.com/ChunbiaoZhu/DCC-2018/)
+Source code will be released soon! You can download in [here](https://github.com/ChunbiaoZhu/DCC-2018/)
 
-You can download our Results on SalPan Dataset in [here](https://github.com/ChunbiaoZhu/DCC-2018/)
+More results will be public soon in [here](https://github.com/ChunbiaoZhu/DCC-2018/)
 
 ## Previous work
 
