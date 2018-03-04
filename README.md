@@ -32,11 +32,15 @@ Source code will be released soon! You can download in [here](https://github.com
 
 More results will be public soon in [here](https://github.com/ChunbiaoZhu/DCC-2018/)
 
-## Previous work
+## FAQ about image compression
+Is the final image really a standard JPEG?
 
-If you were interested in this work, you may want to also check our previous work, [CAIP2017](https://chunbiaozhu.github.io/CAIP2017/), which offers a whole new idea.
+Yes, the final image is a standard JPEG as it is encoded using standard JPEG.
 
-If you were interested in this work, you may want to also check our previous work, [MM2017](https://chunbiaozhu.github.io/MM2017/), which offers a whole new application.
+But how can you improve JPEG using JPEG ?
+
+Standard JPEG uses a image level Quantization scaling Q. However, not all parts of the image be compressed at same level. Our method allows to use variable Q.
+
 
 ## Acknowledgements
 
