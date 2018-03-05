@@ -37,6 +37,13 @@ The dataset proposed in our paper is one of our contributions to the research co
 
 You can download in [here](https://github.com/ChunbiaoZhu/SalPan)
 
+If you use this dataset.
+
+Please cite as:
+
+"An Innovative Saliency Guided RoI Selection Model for Panoramic Images Compression. " Chunbiao Zhu, Kan Huang and Ge Li. Data Compression Conference (DCC), 2018
+
+
 ## FAQ about image compression
 1.Is the final image really a standard JPEG?
 
