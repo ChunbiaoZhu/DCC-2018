@@ -30,7 +30,6 @@ Extensive evaluations show the proposed approach outperforms other methods in sa
 
 Source code will be released soon! You can download in [here](https://github.com/ChunbiaoZhu/DCC-2018/)
 
-More results will be public soon in [here](https://github.com/ChunbiaoZhu/DCC-2018/)
 
 ## SalPan Dataset
 The dataset proposed in our paper is one of our contributions to the research community. This dataset is collected for saliency evaluation on panoramic images, and contain a variety of challenging cases. It contains at most eighteen salient objects in one panoramic images.
