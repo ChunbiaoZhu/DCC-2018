@@ -41,6 +41,8 @@ But how can you improve JPEG using JPEG ?
 
 Standard JPEG uses a image level Quantization scaling Q. However, not all parts of the image be compressed at same level. Our method allows to use variable Q.
 
+How to plot PR curve?
+Precision-recall curve is plotted by comparing the results with the ground-truth through varying thresholds within the range [0, 255]. They are computed for adaptive threshold, which is defined as twice the mean saliency of the image.
 
 ## Acknowledgements
 
