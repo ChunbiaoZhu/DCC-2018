@@ -32,16 +32,21 @@ Source code will be released soon! You can download in [here](https://github.com
 
 More results will be public soon in [here](https://github.com/ChunbiaoZhu/DCC-2018/)
 
+## SalPan Dataset
+The dataset proposed in our paper is one of our contributions to the research community. This dataset is collected for saliency evaluation on panoramic images, and contain a variety of challenging cases. It contains at most eighteen salient objects in one panoramic images.
+
+You can download in [here](https://github.com/ChunbiaoZhu/SalPan)
+
 ## FAQ about image compression
-Is the final image really a standard JPEG?
+1.Is the final image really a standard JPEG?
 
 Yes, the final image is a standard JPEG as it is encoded using standard JPEG.
 
-But how can you improve JPEG using JPEG ?
+2.How can you improve JPEG using JPEG ?
 
 Standard JPEG uses a image level Quantization scaling Q. However, not all parts of the image be compressed at same level. Our method allows to use variable Q.
 
-How to plot PR curve?
+3.How to plot PR curve?
 Precision-recall curve is plotted by comparing the results with the ground-truth through varying thresholds within the range [0, 255]. They are computed for adaptive threshold, which is defined as twice the mean saliency of the image.
 
 ## Acknowledgements
