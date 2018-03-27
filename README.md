@@ -25,6 +25,8 @@ Extensive evaluations show the proposed approach outperforms other methods in sa
 ## Framework
 ![QFramework saliency detection](https://github.com/ChunbiaoZhu/DCC-2018/blob/master/images/fig1.png)
 
+## Full Version
+Full version can be downloaded in [here](https://www.researchgate.net/publication/324027465_Automatic_Salient_Object_Detection_for_Panoramic_Images_Using_Region_Growing_and_Fixation_Prediction_Model)
 
 ## Code & Results
 
@@ -40,8 +42,14 @@ If you use this dataset.
 
 Please cite as:
 
-"An Innovative Saliency Guided RoI Selection Model for Panoramic Images Compression. " Chunbiao Zhu, Kan Huang and Ge Li. Data Compression Conference (DCC), 2018
+    1. "An Innovative Saliency Guided RoI Selection Model for Panoramic Images Compression. " Chunbiao Zhu, Kan Huang and Ge Li. Data Compression Conference (DCC), 2018
 
+    2. arXiv:1710.04071 [cs.CV]
+
+        @misc{1710.04071, author = {Chunbiao Zhu and Kan Huang and Ge Li}, title = {{A}utomatic {S}alient {O}bject {D}etection for {P}anoramic {I}mages {U}sing {R}egion {G}rowing and {F}ixation {P}rediction {M}odel}, year = {2017}, eprint = {1710.04071}, note = {arXiv:1710.04071v1} }
+
+Source Code Available
+If you want source code, please contact: zhuchunbiao@pku.edu.cn
 
 ## FAQ about image compression
 1.Is the final image really a standard JPEG?
