@@ -29,6 +29,7 @@ Extensive evaluations show the proposed approach outperforms other methods in sa
 Full version can be downloaded in [here](https://www.researchgate.net/publication/324027465_Automatic_Salient_Object_Detection_for_Panoramic_Images_Using_Region_Growing_and_Fixation_Prediction_Model)
 
 ## Code & Results
+When the stars get more, the source code will be immediately exposed！
 
 Source code will be released soon! You can download in [here](https://github.com/ChunbiaoZhu/DCC-2018/)
 
