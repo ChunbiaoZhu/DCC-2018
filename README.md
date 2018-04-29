@@ -26,10 +26,10 @@ Extensive evaluations show the proposed approach outperforms other methods in sa
 ![QFramework saliency detection](https://github.com/ChunbiaoZhu/DCC-2018/blob/master/images/fig1.png)
 
 ## Full Version
-Full version can be downloaded in [here](https://www.researchgate.net/publication/324027465_Automatic_Salient_Object_Detection_for_Panoramic_Images_Using_Region_Growing_and_Fixation_Prediction_Model)
+Full version can be downloaded in [here](https://www.researchgate.net/publication/324027465_Automatic_Salient_Object_Detection_for_Panoramic_Images_Using_Region_Growing_and_Fixation_Prediction_Model)  or [here] (https://arxiv.org/abs/1710.04071)
 
 ## Code & Results
-Source code will be released soon! You can download in [here](https://github.com/ChunbiaoZhu/DCC-2018/)
+Source code is released! You can download in [here](https://github.com/ChunbiaoZhu/DCC-2018/)
 
 
 ## SalPan Dataset
@@ -45,7 +45,22 @@ Please cite as:
 
     2. arXiv:1710.04071 [cs.CV]
 
-        @misc{1710.04071, author = {Chunbiao Zhu and Kan Huang and Ge Li}, title = {{A}utomatic {S}alient {O}bject {D}etection for {P}anoramic {I}mages {U}sing {R}egion {G}rowing and {F}ixation {P}rediction {M}odel}, year = {2017}, eprint = {1710.04071}, note = {arXiv:1710.04071v1} }
+        @article{DBLP:journals/corr/abs-1710-04071,
+        author    = {Chunbiao Zhu and
+                     Kan Huang and
+                     Ge Li},
+        title     = {Automatic Salient Object Detection for Panoramic Images Using Region
+                     Growing and Fixation Prediction Model},
+        journal   = {CoRR},
+        volume    = {abs/1710.04071},
+        year      = {2017},
+        url       = {http://arxiv.org/abs/1710.04071},
+        archivePrefix = {arXiv},
+        eprint    = {1710.04071},
+        timestamp = {Wed, 01 Nov 2017 19:05:43 +0100},
+        biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1710-04071},
+        bibsource = {dblp computer science bibliography, https://dblp.org}
+      }
 
 Source Code Available
 If you want source code, please contact: zhuchunbiao@pku.edu.cn
