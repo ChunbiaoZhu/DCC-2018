@@ -29,8 +29,9 @@ Extensive evaluations show the proposed approach outperforms other methods in sa
 Full version can be downloaded in [here](https://www.researchgate.net/publication/324027465_Automatic_Salient_Object_Detection_for_Panoramic_Images_Using_Region_Growing_and_Fixation_Prediction_Model)  or [here] (https://arxiv.org/abs/1710.04071)
 
 ## Code & Results
-Source code is released! You can download in [here](https://github.com/ChunbiaoZhu/DCC-2018/)
+1.ROI selection model code is released! You can download in [here](https://github.com/ChunbiaoZhu/DCC-2018/)
 
+2.Compression code we use the source code released in [here] (https://github.com/iamaaditya/image-compression-cnn) 
 
 ## SalPan Dataset
 The dataset proposed in our paper is one of our contributions to the research community. This dataset is collected for saliency evaluation on panoramic images, and contain a variety of challenging cases. It contains at most eighteen salient objects in one panoramic images.
@@ -62,8 +63,6 @@ Please cite as:
         bibsource = {dblp computer science bibliography, https://dblp.org}
       }
 
-Source Code Available
-If you want source code, please contact: zhuchunbiao@pku.edu.cn
 
 ## FAQ about image compression
 1.Is the final image really a standard JPEG?
