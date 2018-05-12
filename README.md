@@ -26,7 +26,7 @@ Extensive evaluations show the proposed approach outperforms other methods in sa
 ![QFramework saliency detection](https://github.com/ChunbiaoZhu/DCC-2018/blob/master/images/fig1.png)
 
 ## Full Version
-Full version can be downloaded in [here](https://www.researchgate.net/publication/324027465_Automatic_Salient_Object_Detection_for_Panoramic_Images_Using_Region_Growing_and_Fixation_Prediction_Model)  or [here] (https://arxiv.org/abs/1710.04071)
+Full version can be downloaded in [here](https://www.researchgate.net/publication/324027465_Automatic_Salient_Object_Detection_for_Panoramic_Images_Using_Region_Growing_and_Fixation_Prediction_Model)  or [here](https://arxiv.org/abs/1710.04071)
 
 ## Code & Results
 1.ROI selection model code is released! You can download in [here](https://github.com/ChunbiaoZhu/DCC-2018/)
