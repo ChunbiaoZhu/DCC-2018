@@ -28,7 +28,7 @@ Extensive evaluations show the proposed approach outperforms other methods in sa
 ## Full Version
 Full version can be downloaded in [here](https://www.researchgate.net/publication/324027465_Automatic_Salient_Object_Detection_for_Panoramic_Images_Using_Region_Growing_and_Fixation_Prediction_Model)  or [here](https://arxiv.org/abs/1710.04071)
 
-## SalPan Dataset
+## SalPan Dataset (part 1)
 The dataset proposed in our paper is one of our contributions to the research community. This dataset is collected for saliency evaluation on panoramic images, and contain a variety of challenging cases. It contains at most eighteen salient objects in one panoramic images.
 
 You can download in [here](https://github.com/ChunbiaoZhu/DCC-2018/)
@@ -57,20 +57,6 @@ Please cite as:
         biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1710-04071},
         bibsource = {dblp computer science bibliography, https://dblp.org}
       }
-
-
-## FAQ about image compression
-1.Is the final image really a standard JPEG?
-
-Yes, the final image is a standard JPEG as it is encoded using standard JPEG.
-
-2.How can you improve JPEG using JPEG ?
-
-Standard JPEG uses a image level Quantization scaling Q. However, not all parts of the image be compressed at same level. Our method allows to use variable Q.
-
-3.How to plot PR curve?
-
-Precision-recall curve is plotted by comparing the results with the ground-truth through varying thresholds within the range [0, 255]. They are computed for adaptive threshold, which is defined as twice the mean saliency of the image.
 
 ## Acknowledgements
 
